@@ -9,7 +9,6 @@ output: html_document
 library('tidyverse')
 ```
 
-
 ## 1. Population density and poverty in the Midwest
 ```{r}
 midwest
@@ -26,7 +25,6 @@ qplot(x = popdensity, y = percbelowpoverty, data = midwest)
 ```{r}
 qplot(popdensity, percbelowpoverty, data = midwest, facets = ~inmetro)
 ```
-
 
 ## 2. Historical trends for obesity and diabetes in the US
 
@@ -47,7 +45,6 @@ qplot(x = year,
       geom = 'line',
       color = condition)
 ```
-
 
 ## 3. Challenge question (extra credit)
 
