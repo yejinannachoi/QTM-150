@@ -11,7 +11,6 @@ setwd("~/Desktop/QTM 150")
 newgss <- read_csv("newgss.csv")
 ```
 
-
 ## 1. GSS
 ```{r}
 newgss
@@ -42,7 +41,6 @@ ggplot(newgss_sum, aes(year, avg_inc)) +
   geom_line(aes(color = sex))
 ```
 
-
 ## 2. Txhousing
 ```{r}
 txhousing
@@ -60,7 +58,6 @@ ggplot(txhousing_filt, aes(month, median)) +
   geom_point(aes(color = city), size = 0.5) +
   geom_line(aes(color = city), alpha = 0.5)
 ```
-
 
 ## 3. Challenge question (Extra Credit)
 ```{r}
