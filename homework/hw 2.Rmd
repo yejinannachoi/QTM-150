@@ -1,0 +1,64 @@
+---
+title: "HW 2: qplot and data import"
+author: "Anna Choi"
+output: html_document
+---
+
+## 0. Setup
+```{r}
+library('tidyverse')
+```
+
+
+## 1. Population density and poverty in the Midwest
+```{r}
+midwest
+```
+
+### 1-a. Scatter plot illustrating the relationship between the population density of a county and its percent of population below poverty
+
+```{r}
+qplot(x = popdensity, y = percbelowpoverty, data = midwest)
+```
+
+### 1-b. Scatter plots illustrating the relationship between the population density of a county and its percent of population below poverty broken down by whether the county is in a metropolitan area or not
+
+```{r}
+qplot(popdensity, percbelowpoverty, data = midwest, facets = ~inmetro)
+```
+
+
+## 2. Historical trends for obesity and diabetes in the US
+
+### 2-a. Import "obes_diab_trend.csv" data set
+
+```{r}
+setwd("~/Desktop/QTM 150")
+diabobestrend <- read_csv("obes_diab_trend.csv")
+diabobestrend
+```
+
+### 2-b. The historical trend of the prevalence of obesity and diabetes
+
+```{r}
+qplot(x = year,
+      y = prevalence,
+      data = diabobestrend,
+      geom = 'line',
+      color = condition)
+```
+
+
+## 3. Challenge question (extra credit)
+
+### 3-a. Scatter plot illustrating the relationship between the population density of a county and its percent of population below poverty for counties with population density no larger than 10,000 only
+
+```{r}
+library(dplyr)
+midwest_filter <- filter(midwest, popdensity < 10000)
+qplot(popdensity,
+      percbelowpoverty,
+      data = midwest_filter,
+      xlab = "Population Density",
+      ylab = "Percent below Poverty")
+```
