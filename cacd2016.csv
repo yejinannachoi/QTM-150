@@ -1,0 +1,92 @@
+Judge.Id,N.Cases.2016,Birth.Year,Birth.State,Gender,Race.or.Ethnicity,Confirmation.Year,Appointing.President,Party.of.Appointing.President
+1,6,1948,DC,Male,African American,1994,William J. Clinton,Democratic
+2,1,1967,KY,Male,White,2014,Barack Obama,Democratic
+3,1,1938,CA,Male,White,1980,Jimmy Carter,Democratic
+4,2,1952,ID,Male,White,1995,William J. Clinton,Democratic
+5,4,1951,NY,Male,African American,1998,William J. Clinton,Democratic
+6,2,1933,IN,Male,White,1985,Ronald Reagan,Republican
+7,1,1943,TX,Male,Hispanic,1994,William J. Clinton,Democratic
+8,4,1965,LA,Male,African American,2015,Barack Obama,Democratic
+9,2,1967,WV,Male,White,2006,George W. Bush,Republican
+10,1,1947,MA,Male,White,1995,William J. Clinton,Democratic
+11,1,1944,NY,Male,White,2000,William J. Clinton,Democratic
+12,1,1934,NY,Male,White,1994,William J. Clinton,Democratic
+13,1,1957,WI,Female,White,2004,George W. Bush,Republican
+14,1,1962,CA,Male,White,2013,Barack Obama,Democratic
+15,1,1946,IL,Male,White,1985,Ronald Reagan,Republican
+16,2,1957,LA,Female,White,2011,Barack Obama,Democratic
+17,1,1951,LA,Male,White,2002,George W. Bush,Republican
+18,1,1958,IL,Male,White,2005,George W. Bush,Republican
+19,1,1944,DC,Male,White,1991,George H.W. Bush,Republican
+20,1,1977,TX,Male,White,2020,Donald J. Trump,Republican
+21,2,1952,WV,Male,White,1997,William J. Clinton,Democratic
+22,2,1956,SD,Female,White,1999,William J. Clinton,Democratic
+23,1,1968,VA,Female,White,2019,Donald J. Trump,Republican
+24,3,1979,OK,Male,African American,2019,Donald J. Trump,Republican
+25,2,1946,AL,Male,African American,1990,George H.W. Bush,Republican
+26,3,1947,CO,Male,White,1995,William J. Clinton,Democratic
+27,4,1956,CT,Male,White,2020,Donald J. Trump,Republican
+28,1,1951,MA,Male,White,2011,Barack Obama,Democratic
+29,4,1931,NH,Male,White,1990,George H.W. Bush,Republican
+30,3,1960,MN,Male,White,2006,George W. Bush,Republican
+31,2,1951,NY,Male,White,2011,Barack Obama,Democratic
+32,1,1947,AL,Male,African American,1994,William J. Clinton,Democratic
+33,2,1946,IL,Male,White,1986,Ronald Reagan,Republican
+34,2,1932,NJ,Male,White,1987,Ronald Reagan,Republican
+35,1,1952,SD,Male,White,2009,Barack Obama,Democratic
+36,1,1931,MN,Male,White,1980,Jimmy Carter,Democratic
+37,1,1947,TX,Male,White,1994,William J. Clinton,Democratic
+38,1,1936,MN,Male,White,1984,Ronald Reagan,Republican
+39,326,1933,IL,Male,African American,1979,Jimmy Carter,Democratic
+40,41,1934,CA,Male,White,1984,Ronald Reagan,Republican
+41,221,1951,China,Male,Asian American,1995,William J. Clinton,Democratic
+42,1,1950,Romania,Male,White,1985,Ronald Reagan,Republican
+43,251,1941,CA,Male,Asian American,1987,Ronald Reagan,Republican
+44,1,1928,OR,Male,White,1987,Ronald Reagan,Republican
+45,103,1936,TN,Female,African American,1980,Jimmy Carter,Democratic
+46,1,1946,AZ,Female,White,1994,William J. Clinton,Democratic
+47,25,1951,CA,Male,White,1996,William J. Clinton,Democratic
+48,2,1929,WA,Male,White,1980,Jimmy Carter,Democratic
+49,412,1927,FL,Male,White,1987,Ronald Reagan,Republican
+50,3,1934,CA,Male,Asian American,1980,Jimmy Carter,Democratic
+51,1,1953,MN,Male,White,1995,William J. Clinton,Democratic
+52,2,1943,WV,Male,White,1995,William J. Clinton,Democratic
+53,417,1941,NY,Male,White,1985,Ronald Reagan,Republican
+54,461,1947,CA,Female,White,1997,William J. Clinton,Democratic
+55,1,1950,NE,Female,White,1998,William J. Clinton,Democratic
+56,1,1940,PA,Male,White,1984,Ronald Reagan,Republican
+57,1,1951,NY,Male,African American,1998,William J. Clinton,Democratic
+58,425,1944,RI,Male,White,1998,William J. Clinton,Democratic
+59,309,1957,CA,Female,White,1999,William J. Clinton,Democratic
+60,1,1946,CA,Male,White,2000,William J. Clinton,Democratic
+61,441,1948,CA,Male,African American,2002,George W. Bush,Republican
+62,412,1944,NY,Male,White,2002,George W. Bush,Republican
+63,1,1953,Venezuela,Male,White,2002,George W. Bush,Republican
+64,430,1941,CA,Male,White,2002,George W. Bush,Republican
+65,411,1951,CA,Male,Hispanic,2003,George W. Bush,Republican
+66,375,1945,CA,Male,White,2003,George W. Bush,Republican
+67,400,1959,MI,Male,White,2003,George W. Bush,Republican
+68,2,1952,LA,Male,White,2003,George W. Bush,Republican
+69,392,1951,NJ,Female,White,2003,George W. Bush,Republican
+70,1,1962,IL,Female,White,2005,George W. Bush,Republican
+71,376,1950,CA,Male,White,2006,George W. Bush,Republican
+72,1,1965,Puerto Rico,Male,Hispanic,2006,George W. Bush,Republican
+73,374,1959,CA,Male,Hispanic,2007,George W. Bush,Republican
+74,420,1944,AL,Male,African American,2007,George W. Bush,Republican
+75,377,1950,NY,Male,Asian American,2007,George W. Bush,Republican
+76,2,1960,MI,Male,White,2007,George W. Bush,Republican
+77,1,1955,CA,Male,Hispanic,2008,George W. Bush,Republican
+78,404,1959,CA,Female,Asian American,2009,Barack Obama,Democratic
+79,375,1961,MO,Female,White,2010,Barack Obama,Democratic
+80,1,1968,NY,Female,African American,2010,Barack Obama,Democratic
+81,1,1957,AZ,Male,Hispanic,2011,Barack Obama,Democratic
+82,400,1951,DC,Male,White,2011,Barack Obama,Democratic
+83,2,1957,FL,Male,White,2011,Barack Obama,Democratic
+84,389,1959,CA,Male,White,2012,Barack Obama,Democratic
+85,1,1969,Vietnam,Female,Asian American,2012,Barack Obama,Democratic
+86,635,1963,Mexico,Male,Hispanic,2012,Barack Obama,Democratic
+87,416,1961,CA,Male,Hispanic,2012,Barack Obama,Democratic
+88,1,1962,CA,Male,White,2013,Barack Obama,Democratic
+89,1,1964,AZ,Female,American Indian,2014,Barack Obama,Democratic
+90,379,1966,NJ,Male,African American,2014,Barack Obama,Democratic
+91,3,1966,TX,Male,White,2014,Barack Obama,Democratic
